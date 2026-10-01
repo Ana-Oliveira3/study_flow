@@ -1,17 +1,14 @@
-# study_flow
+🎓 ENEM Prep - Aplicativo de Questões e Simulados
+Desenvolvido em Flutter que se conecta a uma API do ENEM para oferecer uma plataforma prática de estudos. O objetivo do projeto é auxiliar os estudantes na preparação para o Exame Nacional do Ensino Médio através da resolução de questões anteriores.
+Interface limpa para maior conforto visual durante longas sessões de estudo.
 
-A new Flutter project.
+🛠️ Tecnologias Utilizadas
+Linguagem: Dart
+Framework: Flutter
+Consumo de API: API Pública de Questões do ENEM🚀       
 
-## Getting Started
+🌐 Consumo da API
+O aplicativo consome uma API de questões do ENEM enviando requisições para listar exercícios e buscar alternativas corretas.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📜 Licença
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
