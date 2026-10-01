@@ -1,4 +1,5 @@
-🎓 ENEM Prep - Aplicativo de Questões e Simulados
+🎓 ENEM Prep - Aplicativo de Questões
+
 Desenvolvido em Flutter que se conecta a uma API do ENEM para oferecer uma plataforma prática de estudos. O objetivo do projeto é auxiliar os estudantes na preparação para o Exame Nacional do Ensino Médio através da resolução de questões anteriores.
 Interface limpa para maior conforto visual durante longas sessões de estudo.
 
